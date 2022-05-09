@@ -1,0 +1,81 @@
+@import url("main.css");
+
+
+.container {
+    max-width: 1280px;
+    margin: 0 auto;
+}
+.hi{
+    font-size: 24px;
+    text-align: center;
+}
+/*HEADER===============================================================================*/
+
+.link{
+    list-style: none;
+}
+a{
+    color: rosybrown;
+    text-decoration:none;
+}
+
+/*SECTION-ONE==============================================================================*/
+
+h1 span{
+    color:mediumseagreen;
+}
+.section{
+    color: mediumseagreen;
+}
+.text_darkseagreen{
+    color: darkseagreen;
+}
+.text_italic_deeppink{
+    color: deeppink;
+}
+.text_tt{
+    color: darkturquoise;
+}
+.text_deeppink{
+    color: deeppink;
+}
+.text_big_blue{
+    color: cornflowerblue;
+}
+.text_line-through{
+    color: rebeccapurple;
+    text-decoration: line-through 2px ;
+}
+.blockquote{
+    color:darkseagreen;
+}
+.datetime{
+    color: cornflowerblue;
+}
+
+/*SECTION-TWO===============================================================================*/
+
+.image{
+    border: 3px solid grey;
+}
+.figure{
+    border: 3px solid grey;
+}
+
+/*SECTION-FORE===============================================================================*/
+
+.title{
+    color: violet;
+}
+.prise{
+    color: darkturquoise;
+}
+
+/*FOOTER===============================================================================*/
+
+.unicode{
+    text-align: center;
+}
+.unicode span{
+    color:darkseagreen;
+}
